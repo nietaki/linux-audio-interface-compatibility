@@ -8,6 +8,7 @@ spending some money.
 - ✓ [Behringer UCA222](#behringer-uca222)
 - ✓ [Behringer UFO202](#behringer-ufo202)
 - ✓ [ESI UDJ6](#esi-udj6)
+- ✓ [Focustrite Scarlett 2i4](#focusrite-scarlett-2i4)
 - ✓ [Native Instruments Audio 2](#native-instruments-audio-2)
 - ✓ [Native Instruments Audio 4 DJ](#native-instruments-audio-4-dj)
 - ✓ [Native Instruments Audio 6](#native-instruments-audio-6)
@@ -51,6 +52,16 @@ The headphone output is incredibly loud. Turning down the volume with the ALSA
 mixer lowers the volume but not the noise floor, so you get a very noisy
 signal not really suited for use with headphones. Would work well for 6 hot
 signals going into an external mixer or such.
+
+## Focusrite Scarlett 2i4
+
+- ✓ Working on KDE Neon (Ubuntu 18.04)
+
+USB, 2 inputs, 4 outputs
+
+https://store.focusrite.com/en-gb/product/scarlett-2i4-2nd-gen/MOSC0014~MOSC0014
+
+2nd gen works out of the box, no configuration needed.
 
 ## Native Instruments Audio 2
 
